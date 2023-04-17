@@ -14,3 +14,18 @@
     @apply cursor-pointer
   }
 }
+
+.portfolio-backgrounds {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.portfolio-backgrounds:hover {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(235, 250, 249, 0.7),
+    rgba(151, 214, 208, 0.7)
+  )!important;
+}
