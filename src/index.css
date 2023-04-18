@@ -29,3 +29,7 @@
     rgba(151, 214, 208, 0.7)
   )!important;
 }
+
+#portfolio_div {
+  clear:both
+}
