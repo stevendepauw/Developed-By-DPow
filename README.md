@@ -12,4 +12,6 @@ The following image shows the web application's appearance and the link will tak
 For the full application follow this link: 
 
 
-<!-- for using GQL image https://commons.wikimedia.org/wiki/File:GraphQL_Logo.svg -->
+## Legal
+For rules around using the GraphQL png pls refer to:
+https://commons.wikimedia.org/wiki/File:GraphQL_Logo.svg
