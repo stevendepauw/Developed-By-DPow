@@ -4,7 +4,7 @@ import GameSpotlight from "../assets/game_spotlight.png";
 import GameQuiz from "../assets/game_quiz.png";
 import ReactPortfolio from "../assets/react-portfolio.png";
 import SQLDemo from "../assets/sql-demo.png";
-import ComingSoon from "../assets/coming-soon.png";
+import OnlyDevs from "../assets/onlydevs.png";
 
 const Portfolio = () => {
   return (
@@ -142,22 +142,22 @@ const Portfolio = () => {
           </div>
 
           <div
-            style={{ backgroundImage: `url(${ComingSoon})` }}
+            style={{ backgroundImage: `url(${OnlyDevs})` }}
             className="shadow-lg shadow-red-400 group container rounded-md flex justify-center items-center mx-auto portfolio-backgrounds my-1"
           >
             <div className="opacity-0 group-hover:opacity-100 p-2 ">
               <span className="text-2xl font-bold text-white tracking-wider  ">
-                Project 3 Placeholder
+                OnlyDevs
               </span>
 
               <div className="pt-8 text-center">
-                <a href="https://stevendepauw.github.io/Weather-Dashboard/">
+                <a href="https://od-test-kzg1pno3u-stevendepauw.vercel.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white font-bold">
                     View Demo
                   </button>
                 </a>
 
-                <a href="https://github.com/stevendepauw/Weather-Dashboard">
+                <a href="https://github.com/alexbrenes999/OnlyDevs">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white font-bold">
                     View Code
                   </button>
