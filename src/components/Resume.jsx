@@ -68,10 +68,10 @@ const Resume = () => {
         </div>
 
         <div>
-          <button className="text-[#97D6D0] border-2 border-current px-3 py-2 my-2 flex items-center hover:bg-red-400 hover:border-red-400">
-            View Full Resume (Coming Soon){" "}
+          <a href="https://drive.google.com/file/d/14tlp_UkqrbRtvMJQ4R8OoIEgJ70CXjDu/view?usp=sharing"><button className="text-[#97D6D0] border-2 border-current px-3 py-2 my-2 flex items-center hover:bg-red-400 hover:border-red-400">
+            View Full Resume
             <HiArrowNarrowRight className="ml-3" />
-          </button>
+          </button></a>
         </div>
       </div>
     </div>
